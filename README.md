@@ -1,0 +1,2 @@
+# PartyInvitesCore
+PartyInvitesCore
